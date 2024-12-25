@@ -1,4 +1,4 @@
-This portfolio contains projects I'm developing during my journey of self-learning concepts and tools related to data analytics and data science.
+This portfolio contains projects I'm developing during my journey of learning concepts and tools related to data analytics and data science.
 
 The SQL_Projects folder includes two projects on SQL. One on data exploration and one on data cleaning.
 
