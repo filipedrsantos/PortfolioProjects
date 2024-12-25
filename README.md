@@ -9,7 +9,7 @@ The optimization folder contains optimization programs developed in Python in or
 
 The ML folder contains simple examples of application of supervised, both classification (k-nearest neighbors, naive Bayes, logistic regression, SVM, neural networks) and regression (linear regression and neural networks), and unsupervised (k-means clustering and PCA) machine learning methods, developed in python using libraries such as scikit-learn and TensorFlow
 
-Soon I will update this portfolio with 
+Soon I will update this portfolio with: 
 1) projects on data exploration, manipulation and cleaning on Python
 2) examples of visualizations in excel, power bi and tableau
 
